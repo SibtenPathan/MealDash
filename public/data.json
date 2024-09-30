@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Margherita Pizza",
+    "description": "Classic pizza topped with fresh tomatoes, mozzarella, and basil.",
+    "price": 12.99,
+    "image": "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Main Course"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Fresh romaine lettuce, croutons, and Caesar dressing.",
+    "price": 8.99,
+    "image": "https://example.com/images/caesar-salad.jpg",
+    "category": "Starter"
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a gooey molten center.",
+    "price": 6.99,
+    "image": "https://example.com/images/chocolate-lava-cake.jpg",
+    "category": "Dessert"
+  },
+  {
+    "name": "Grilled Chicken Sandwich",
+    "description": "Grilled chicken breast served with lettuce, tomato, and mayo on a brioche bun.",
+    "price": 10.99,
+    "image": "https://example.com/images/grilled-chicken-sandwich.jpg",
+    "category": "Main Course"
+  },
+  {
+    "name": "French Fries",
+    "description": "Crispy golden fries served with ketchup.",
+    "price": 3.99,
+    "image": "https://example.com/images/french-fries.jpg",
+    "category": "Starter"
+  },
+  {
+    "name": "Iced Tea",
+    "description": "Refreshing iced tea with a hint of lemon.",
+    "price": 2.99,
+    "image": "https://example.com/images/iced-tea.jpg",
+    "category": "Beverages"
+  },
+  {
+    "name": "Cappuccino",
+    "description": "Hot espresso mixed with steamed milk and topped with foam.",
+    "price": 4.50,
+    "image": "https://example.com/images/cappuccino.jpg",
+    "category": "Beverages"
+  },
+  {
+    "name": "New York Cheesecake",
+    "description": "Creamy cheesecake with a graham cracker crust.",
+    "price": 7.99,
+    "image": "https://example.com/images/cheesecake.jpg",
+    "category": "Dessert"
+  }
+]
